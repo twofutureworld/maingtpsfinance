@@ -183,7 +183,7 @@ export const hidden = style([
 ])
 export const visible = style([
   sprinkles({
-    visibility: 'visible',
+    visibility: 'hidden',
     opacity: '1',
     height: 'full',
   }),
