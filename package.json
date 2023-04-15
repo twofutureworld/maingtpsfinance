@@ -172,6 +172,7 @@
     "ajv": "^6.12.3",
     "array.prototype.flat": "^1.2.4",
     "array.prototype.flatmap": "^1.2.4",
+    "build": "^0.1.4",
     "caniuse-lite": "^1.0.30001478",
     "cids": "^1.0.0",
     "clsx": "^1.1.1",
